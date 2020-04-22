@@ -26,3 +26,7 @@ int fact(int a){
         return a*fact(a-1);
     }
 }
+
+int dummy(){
+ #do nothing
+}
