@@ -10,6 +10,12 @@ void swap(int *x, int *y){
     *x = *y;
     *y = temp;
 }
+
+int * arr(int n){
+    int *p;
+    p = (int *)malloc(n*sizeof(int));
+    return (p);
+}
 int main(){
     int *r;
     r = (int *)malloc(5*sizeof(int));
@@ -23,5 +29,10 @@ int main(){
     int b = 10;
     swap(&a, &b);
     printf("%d, %d", a, b);
+
+    int *c;
+    c = arr(5);
+    c[0] = 5;
+    printf("\n%d", c[0]);
     return 0;
 }
