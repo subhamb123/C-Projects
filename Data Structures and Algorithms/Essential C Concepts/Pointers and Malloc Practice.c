@@ -34,5 +34,9 @@ int main(){
     c = arr(5);
     c[0] = 5;
     printf("\n%d", c[0]);
+    free(c);
+    int y = 10;
+    c = &y;
+    printf("\n%d", *c);
     return 0;
 }
