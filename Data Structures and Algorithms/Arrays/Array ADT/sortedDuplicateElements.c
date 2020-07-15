@@ -4,7 +4,7 @@
 
 int main(){
     int A[10] = {1, 7, 7, 7, 10, 12, 12, 12, 12, 15};
-    int hashTable[16];
+    int hashTable[16] = {0};
     int length = 10;
     int hashLength = 15;
     int lastDuplicate = 0;
