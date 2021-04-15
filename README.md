@@ -1,8 +1,8 @@
-# C Projects [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/subhamb123/C-Projects/blob/master/LICENSE)
+# C/C++ Projects [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/subhamb123/C-Projects/blob/master/LICENSE)
 
-This is a list of C practice I have been working on. 
+This is a list of C/C++ practice I have been working on. 
 
-The "Basic Programs" folder contains programs that I wrote to learn the C languaage. 
+The "Basic Programs" folder contains programs that I wrote to learn the C/C++ languaage. 
 
 The "Data Structures and Algorithms" folder contains programs that I have written so I could practice advanced skills I have learned from a Udemy couse I am taking.
 
